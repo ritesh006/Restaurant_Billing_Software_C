@@ -7,7 +7,6 @@ int main() {
 
     int choice = 0;
     
-   
     choice = operationSelection();
 
     choiceExecution(choice);
